@@ -23,6 +23,8 @@
       - I developed autocomplete tool in Python which parse excel and do key binding for autocompletion;
       - developing front-end internal tooling website using Blazor + C#;
       - Being mentor for new colleagues.
+      - working with Jira, confluence, IMS, git, Github;
+      - basic linux skills;
   
 - 🔨 More about me: I really like the quote "Work smart, not hard!" but I belive that is not entierly true, 
 because you know... to work smart first you need to work hard to understand the problem, to get your hands dirty
