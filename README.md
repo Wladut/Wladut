@@ -12,6 +12,8 @@
 
 - ✅ Experience:
 
+      - Software Engineer in automotive industry;
+      - System Deployment Engineer in automotive industry;
       - System Test Engineer automating tests in python;
       - CAPL programming (capl scripts + panels design);
       - design and create manual sytem test to interract with electronic controller unit;
