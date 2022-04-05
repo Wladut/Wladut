@@ -7,34 +7,36 @@ About me:
 - Github account: https://github.com/Wladut
 
 Experience:
+
       - Software Engineer in automotive industry:
-	- create software detailed design based on software requirements and architecture;
-	- implement source code based on design (C language);
-	- implement module unit test cases (C framework for unit TCs);
-	- implement automatic qualification tests (Python framework);
-	- member in an agile scrum team;
-	- experience with body controller module and gateway functionalities;
-	- mentoring new colleagues;
-	- trainer for CANoe basics;
-	- experience in technical recruitment.
+		- create software detailed design based on software requirements and architecture;
+		- implement source code based on design (C language);
+		- implement module unit test cases (C framework for unit TCs);
+		- implement automatic qualification tests (Python framework);
+		- member in an agile scrum team;
+		- experience with body controller module and gateway functionalities;
+		- mentoring new colleagues;
+		- trainer for CANoe basics;
+		- experience in technical recruitment.
 
       - System Deployment Engineer in automotive industry:
-	- review and analyse customer / system requirements;
-	- support new projects ramp up phase;
-	- ensure high reuse of platform in new projects;
-	- create feature list for new projects;
-	- ensure testing framework reuse;
-	- deliver platform system architecture, system requirements and test cases reuse for high performance computers;
+		- review and analyse customer / system requirements;
+		- support new projects ramp up phase;
+		- ensure high reuse of platform in new projects;
+		- create feature list for new projects;
+		- ensure testing framework reuse;
+		- deliver platform system architecture, system requirements and test cases reuse for high performance computers;
 
       - System Test Engineer in automotive industry:
-	- automate tests using python;
+		- automate tests using python;
       	- CAPL programming (capl scripts + panels design);
-	- analyse/review requirements;
-	- implement/review system test cases;
+		- analyse/review requirements;
+		- implement/review system test cases;
       	- design and create manual system test to interact with electronic controller unit;
-	- being mentor for new colleagues;
+		- being mentor for new colleagues;
       
 Additional activities:
+
       - developed internal Java application which parse management excel files and upload these into Oracle database, having functions to upload / fetch datas and change status;
       - developed internal Java application which parse excel file containing jira predefined tickets and uploads these via REST jira API;
       - developed autocomplete tool in Python which parse excel and do key binding for autocompletion;
