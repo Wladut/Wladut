@@ -20,11 +20,11 @@ Experience:
 
       - System Deployment Engineer in automotive industry:
 	- review and analyse customer / system requirements;
-- support new projects ramp up phase;
-- ensure high reuse of platform in new projects;
-- create feature list for new projects;
-- ensure testing framework reuse;
-- deliver platform system architecture, system requirements and test cases reuse for high performance computers;
+	- support new projects ramp up phase;
+	- ensure high reuse of platform in new projects;
+	- create feature list for new projects;
+	- ensure testing framework reuse;
+	- deliver platform system architecture, system requirements and test cases reuse for high performance computers;
 
       - System Test Engineer in automotive industry:
 	- automate tests using python;
